@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    background-color: pink;
+}
+label{
+    font-size: 0.5cm;
+}
+.frigo{
+    border: 0.2cm solid rgb(255, 163, 218);
+    width: 15cm;
+    margin-left: 12cm;
+    margin-top: 3cm;
+    padding: 0.5cm;
+}
+.list{
+    border: 0.2cm solid rgb(255, 163, 218);
+    width: 15cm;
+    margin-left: 12cm;
+    margin-top: 2cm;
+    padding: 0.5cm;
+}
+.principal{
+    text-align: center;
+}
+body{
+    background-color: rgb(245, 255, 197);
+}
+li{
+    font-size: 0.5cm;
+}
+button{
+    background-color: rgb(253, 206, 234);
+}
+.delete{
+    background-color: rgb(255, 120, 201);
+}
